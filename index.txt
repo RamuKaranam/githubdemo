@@ -1,9 +1,0 @@
-first line
-second line
-third line
-fourth line
-sixth line one branch contetnt
-sixth line main branch extra line
-added in directly in main remote added in one branch
-added in first in main branch aim to get conflict demo
-
