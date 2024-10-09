@@ -4,4 +4,5 @@ third line
 fourth line
 sixth line one branch contetnt
 sixth line main branch extra line
-added in directly in main remote repository
+added in first in main branch aim to get conflict demo
+
